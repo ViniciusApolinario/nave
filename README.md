@@ -1,14 +1,12 @@
 # Current Currency
-(nome sujeito a mudança)
+> (nome sujeito a mudança)
 
 Projeto AR desenvolvido durante a Hackathon SESI 2016 pelo grupo do NAVE Rio. Desenvolvido para Android em Unity3D.
 
-## Como funciona?
 O aplicativo possibilita a detecção de notas de dinheiro de variados países pela câmera e oferece a conversão das moedas em tempo real.
 Assim, você não precisa pesquisar o nome da moeda, do país, o valor, ou para qual moeda você quer converter.
 É só apontar a câmera, e pronto! Você recebe feedback imediato do exato valor em mãos!
 
-## Planos futuros
 Já existe planejamento para a implementação da API do Google Places, para indicar casas de câmbio perto do usuário onde ele pode realizar a troca. Além disso, adicionar gráficos de flutuação dos custo de troca e suporte para mais moedas estão na nossa TODO list.
 
 <hr/>
