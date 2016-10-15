@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Brl_New_5" size="10.000000 5.061082" />
+    <ImageTarget name="2_reais_front" size="15.000000 8.036649" />
+    <ImageTarget name="dollar_back" size="10.000000 6.578125" />
+    <ImageTarget name="2_reais_back" size="15.000000 5.942409" />
+  </Tracking>
+</QCARConfig>
