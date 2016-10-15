@@ -16,6 +16,7 @@ It is currently in development stage and only supports US dollar and Brazilian r
 ## More
 
 * Like the page on [Facebook](https://www.facebook.com/Trippr-1793548427587598)
+* The app's [business plan](https://goo.gl/dfUpl0)
 
 ## Future plans
 
