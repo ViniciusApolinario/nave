@@ -22,6 +22,12 @@ Atualmente, está em estado de desenvolvimento e possui somente suporte para dó
 
 Já existe planejamento para a implementação da API do Google Places, para indicar casas de câmbio perto do usuário onde ele pode realizar a troca. Além disso, adicionar gráficos de flutuação dos custo de troca e suporte para mais moedas estão na nossa TODO list.
 
+## Referências
+
+* [UOL](http://www1.folha.uol.com.br/mercado/2016/01/1727995-remessa-ao-exterior-fica-mais-cara-com-cobranca-de-imposto-de-renda.shtml)
+* [Flat Icon](http://www.flaticon.com/)
+* [Groups Today](http://groupstoday.com/business/404-travel-trends-by-age-demographic)
+
 <hr/>
 
 <p align="center">
