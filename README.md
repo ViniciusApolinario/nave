@@ -17,6 +17,7 @@ Atualmente, está em estado de desenvolvimento e possui somente suporte para dó
 ## Mais
 
 * Curta a página no [Facebook](https://www.facebook.com/Trippr-1793548427587598)
+* Veja o [plano de negócios](https://goo.gl/dfUpl0)
 
 ## Planos futuros
 
