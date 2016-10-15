@@ -1,13 +1,24 @@
-# current C
-> (nome sujeito a mudança)
+# trippr (`/ˈtrɪpɜr/`)
+
+<a href="./README-EN.md">English version</a>
 
 Projeto AR desenvolvido durante a Hackathon SESI 2016 pelo grupo do NAVE Rio. Desenvolvido para Android em Unity3D.
+
+## Descrição
 
 O aplicativo possibilita a detecção de notas de dinheiro de variados países pela câmera e oferece a conversão das moedas em tempo real.
 Assim, você não precisa pesquisar o nome da moeda, do país, o valor, ou para qual moeda você quer converter.
 É só apontar a câmera, e pronto! Você recebe feedback imediato do exato valor em mãos!
 
+Atualmente, está em estado de desenvolvimento e possui somente suporte para dólar e real.
+
 ![Screenshot](http://i.imgur.com/KwN4oVy.png)
+
+## Mais
+
+* Curta a página no [https://www.facebook.com/Trippr-1793548427587598](Facebook)
+
+## Planos futuros
 
 Já existe planejamento para a implementação da API do Google Places, para indicar casas de câmbio perto do usuário onde ele pode realizar a troca. Além disso, adicionar gráficos de flutuação dos custo de troca e suporte para mais moedas estão na nossa TODO list.
 
