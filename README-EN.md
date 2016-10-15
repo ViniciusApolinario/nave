@@ -22,6 +22,12 @@ It is currently in development stage and only supports US dollar and Brazilian r
 There is planning for the implementation of the Google Places API, to indicate nearby currency exchange houses. Besides,
 graphics of the fluctuation of trade costs and support for more currencies are on our TODO list.
 
+## References
+
+* [UOL](http://www1.folha.uol.com.br/mercado/2016/01/1727995-remessa-ao-exterior-fica-mais-cara-com-cobranca-de-imposto-de-renda.shtml)
+* [Flat Icon](http://www.flaticon.com/)
+* [Groups Today](http://groupstoday.com/business/404-travel-trends-by-age-demographic)
+
 <hr/>
 
 <p align="center">
